@@ -1,5 +1,4 @@
 from web3 import HTTPProvider, Web3
-import requests
 from requests import post
 
 w3 = Web3(HTTPProvider('https://mainnet.infura.io/v3/fba7c1dcaedd49179f6d6401dbfeb303'))
